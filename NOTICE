@@ -1,0 +1,12 @@
+Flint Data Redis
+Copyright 2026 Steven Buglione
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+It ports the public API of Spring Data Redis (https://github.com/spring-projects/spring-data-redis),
+Copyright the original author or authors, licensed under the Apache License,
+Version 2.0. Ported files keep their upstream headers and are marked
+"Modified by the Flint authors".
+
+Spring and the names of Spring projects are trademarks of Broadcom Inc.
+and/or its subsidiaries. Flint is not affiliated with or endorsed by Broadcom.
